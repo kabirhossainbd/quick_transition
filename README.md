@@ -10,7 +10,7 @@ This package you will get page transition
 [![BSD-2-Clause](https://img.shields.io/badge/BSD-2-Clause.svg?style=flat-square)](https://opensource.org/licenses/)
 
 ## Demo
-<img src="![ezgif com-optimize (1)](https://github.com/kabirhossainbd/quick_transition/assets/58218208/8ce289b0-4d30-4087-84b6-2724059b918a)" width="240" height="540" title="Preview">
+![preview](https://github.com/kabirhossainbd/quick_transition/assets/58218208/78f4e3f7-e073-4ad9-a753-125b2ef8cdb8)
 
 ## Usage
 
